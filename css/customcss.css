@@ -1,0 +1,10 @@
+.lipadding{
+    padding: 10px;
+}
+
+.otherlinks a{
+    text-decoration: none;
+}
+.otherlinks a:hover{
+    font-weight: bold;
+}
